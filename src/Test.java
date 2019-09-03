@@ -1,0 +1,11 @@
+import sun.security.x509.IPAddressName;
+
+import java.net.InetAddress;
+import java.net.NetworkInterface;
+import java.net.UnknownHostException;
+
+public class Test {
+    public static void main(String[] args) throws UnknownHostException {
+        System.out.println();
+    }
+}
