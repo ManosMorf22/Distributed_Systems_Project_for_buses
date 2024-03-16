@@ -1,4 +1,4 @@
-# Distributed_Systems_Project_for_buses
+# Distributed_Systems-Buses-Project
 ## Greek
 *Ο σκοπός που έφτιαξα αυτό το Project είναι η απόκτηση περεταίρω εμπειρίας σχετικά με το πως χρησιμοποιούνται τα Threads και τα Sockets στην Java
 #
